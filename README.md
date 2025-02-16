@@ -25,6 +25,7 @@ Para ejecutar cualquiera de las soluciones, necesitarás tener Node.js instalado
 - Reto 1: Primer regalo repetido
 - Reto 2: Enmarcado nombre
 - Reto 3: Organizando el inventario
+- Reto 5: Emparejando botas
 
 ## Requisitos
 
