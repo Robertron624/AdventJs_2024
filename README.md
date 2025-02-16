@@ -1,6 +1,8 @@
- Desafíos de Programación - Adviento 2024 🎄
+# AdventJs 2024
 
 Este repositorio contiene soluciones para una serie de desafíos de programación realizados durante diciembre de 2024. Cada día, hasta el 25 de diciembre, se publicó un nuevo desafío que fue resuelto utilizando JavaScript.
+
+Puedes ver todos los retos en el siguiente enlace: https://adventjs.dev/
 
 ## Estructura del Proyecto
 
